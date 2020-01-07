@@ -1,0 +1,23 @@
+Gianfranco Ulian, PhD
+=====================
+
+Dept. Biological, Geological and Environmental Science
+
+University of Bologna, Italy (IT)
+
+My research activity is focused on the theoretical investigation of the structure and crystal-chemical/minero-physic properties of both 
+natural and synthetic minerals, ceramics and nano-crystalline materials. These materials show fundamental mechanical 
+and surface properties that are interesting for specific applications. The research is carried out on both the bulk 
+and surface properties by means of quantum-mechanical approaches at the atomic scale, in particular Density Functional Theory (DFT).
+
+
+Publications
+------------
+
+[`Google scholar <https://scholar.google.it/citations?user=Sk5EvH4AAAAJ&hl=en>`_]
+
+
+Contact
+-------
+
+* email: gianfranco.ulian2@unibo.it
